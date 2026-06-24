@@ -6,6 +6,8 @@
 
 ### 🎉 New features
 
+- [Android] Add `PhotographicSensitivity` to returned EXIF metadata.
+
 ### 🐛 Bug fixes
 
 - [Android] Use the selected camera to determine video stabilization support. ([#45896](https://github.com/expo/expo/pull/45896) by [@vivekjm](https://github.com/vivekjm))

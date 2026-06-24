@@ -6,6 +6,7 @@
 
 ### 🎉 New features
 
+- [Android] Add `PhotographicSensitivity` to returned EXIF metadata.
 - [iOS] Allow `launchCameraAsync` to be invoked on the simulator. ([#45923](https://github.com/expo/expo/pull/45923) by [@EvanBacon](https://github.com/EvanBacon))
 
 ### 🐛 Bug fixes
