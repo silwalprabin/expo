@@ -1,0 +1,19 @@
+packages/expo-audio/src/utils/options.ts
+  s_55f7c01be2b3cc::t_a329886640f040 20,43,50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.1",
+  "base_commit_sha": "043b0a60e262595a105ad3cb3c0e967ef8874bf3",
+  "prompts": {},
+  "sessions": {
+    "s_55f7c01be2b3cc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ca0738fd-b28f-4e20-a7b1-aedf031fb121",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Prabin Silwal <prabin@summed.ai>"
+    }
+  }
+}
