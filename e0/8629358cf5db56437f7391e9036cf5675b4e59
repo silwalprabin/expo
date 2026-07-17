@@ -1,0 +1,52 @@
+packages/expo-audio/android/src/main/java/expo/modules/audio/AudioRecorder.kt
+  s_55f7c01be2b3cc::t_278cefded3bb8e 243-248
+packages/expo-audio/ios/AudioExceptions.swift
+  s_55f7c01be2b3cc::t_2d636ce6802406 51-55
+  s_d5b1cf3d4591af::t_3be382e2a9ebfe 56
+packages/expo-audio/android/src/main/java/expo/modules/audio/AudioRecords.kt
+  s_55f7c01be2b3cc::t_dfe4b22072e2d1 45-46
+packages/expo-audio/src/Audio.types.ts
+  h_937d28ebf450d8 406
+  s_55f7c01be2b3cc::t_64b7c16e078e44 405,407-416
+  s_55f7c01be2b3cc::t_65a59bdf856d80 404
+packages/expo-audio/ios/AudioRecords.swift
+  s_55f7c01be2b3cc::t_dac7df53e99715 43
+packages/expo-audio/android/src/main/java/expo/modules/audio/AudioExceptions.kt
+  s_55f7c01be2b3cc::t_3092f41d61f2ec 41-43
+packages/expo-audio/ios/AudioUtils.swift
+  s_55f7c01be2b3cc::t_cf2a2d3a32c1f9 59,64-65
+  s_55f7c01be2b3cc::t_81625b8ff1b21f 165,168-179
+packages/expo-audio/src/utils/options.ts
+  s_55f7c01be2b3cc::t_a329886640f040 20,43,50
+packages/expo-audio/CHANGELOG.md
+  s_d5b1cf3d4591af::t_e3d886fb8758aa 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "e08629358cf5db56437f7391e9036cf5675b4e59",
+  "prompts": {},
+  "humans": {
+    "h_937d28ebf450d8": {
+      "author": "Prabin Silwal <prabin@summed.ai>"
+    }
+  },
+  "sessions": {
+    "s_55f7c01be2b3cc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ca0738fd-b28f-4e20-a7b1-aedf031fb121",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Prabin Silwal <prabin@summed.ai>"
+    },
+    "s_d5b1cf3d4591af": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9437a1ba-481a-4253-8f08-c89313db2610",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Prabin Silwal <prabin@summed.ai>"
+    }
+  }
+}
