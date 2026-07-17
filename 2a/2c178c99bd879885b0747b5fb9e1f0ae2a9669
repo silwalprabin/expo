@@ -1,0 +1,14 @@
+packages/expo-audio/src/Audio.types.ts
+  h_937d28ebf450d8 406
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "2a2c178c99bd879885b0747b5fb9e1f0ae2a9669",
+  "prompts": {},
+  "humans": {
+    "h_937d28ebf450d8": {
+      "author": "Prabin Silwal <prabin@summed.ai>"
+    }
+  }
+}
